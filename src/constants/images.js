@@ -1,5 +1,5 @@
 import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
+import chef from '../assets/chef.JPG';
 import G from '../assets/G.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
@@ -22,6 +22,7 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import welcome2 from '../assets/welcome2.jpg'
 import jooni from '../assets/jooni.png'
+import drink from "../assets/drink.jpg"
 
 
 export default {
@@ -48,5 +49,6 @@ export default {
   quote,
   gericht,
   welcome2,
-  jooni
+  jooni,
+  drink
 };
