@@ -19,7 +19,6 @@ import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
-import gericht from '../assets/gericht.png';
 import welcome2 from '../assets/welcome2.jpg'
 import jooni from '../assets/jooni.png'
 import drink from "../assets/drink.jpg"
@@ -47,7 +46,6 @@ export default {
   award05,
   sign,
   quote,
-  gericht,
   welcome2,
   jooni,
   drink
